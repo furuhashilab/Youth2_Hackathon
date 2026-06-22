@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SAMURAI BLUE 2026 - 北中米W杯への軌跡</title>
+    <link rel="preconnect" href="https://unpkg.com">
+    <link rel="preconnect" href="https://tiles.openfreemap.org">
+    <link href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <main id="app" aria-label="SAMURAI BLUE 2026 3D story map">
+      <div id="map"></div>
+
+      <section class="story-panel" aria-live="polite">
+        <p class="kicker">SAMURAI BLUE 2026</p>
+        <h1 id="story-heading">VS ミャンマー</h1>
+        <div class="scene-row">
+          <span id="scene-counter">Scene 1 / 9</span>
+          <span id="scene-name">MATCH 01</span>
+        </div>
+        <dl class="match-meta">
+          <div>
+            <dt>DATE</dt>
+            <dd id="match-date">2023年11月16日</dd>
+          </div>
+          <div>
+            <dt>CITY</dt>
+            <dd id="match-city">大阪府吹田市</dd>
+          </div>
+          <div>
+            <dt>STADIUM</dt>
+            <dd id="match-stadium">パナソニック スタジアム 吹田</dd>
+          </div>
+        </dl>
+        <p id="match-score">日本 5 - 0 ミャンマー</p>
+        <p id="scene-description">
+          2026 FIFAワールドカップアジア2次予選初戦。上田綺世のハットトリックを軸に攻撃が爆発し、北中米への道を力強く開いた。
+        </p>
+      </section>
+
+      <div id="impact-overlay" class="impact-overlay" aria-hidden="true">
+        <div id="impact-title">VS ミャンマー</div>
+      </div>
+
+      <div id="city3d-status" class="city3d-status" data-source="osm" role="status">OpenFreeMap / OpenStreetMap 建物3D</div>
+
+      <section class="controls" aria-label="Story controls">
+        <button id="prev-button" type="button">戻る</button>
+        <button id="play-toggle-button" type="button">一時停止</button>
+        <button id="next-button" type="button">進む</button>
+        <input id="timeline-scrub" class="timeline-scrub" type="range" min="0" max="8" value="0" step="1" aria-label="Timeline scrub bar">
+      </section>
+    </main>
+
+    <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+    <script src="js/dataLoader.js?v=20260622-10"></script>
+    <script src="js/scenes.js?v=20260622-11"></script>
+    <script src="js/map.js?v=20260622-11"></script>
+    <script src="js/story.js?v=20260622-10"></script>
+  </body>
+</html>
