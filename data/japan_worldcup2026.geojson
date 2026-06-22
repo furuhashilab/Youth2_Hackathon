@@ -1,0 +1,447 @@
+{
+    "type":  "FeatureCollection",
+    "name":  "SAMURAI BLUE 2026 - 北中米W杯への軌跡",
+    "features":  [
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              138.2529,
+                                                              36.2048
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "japan-overview",
+                                            "title":  "SAMURAI BLUE 2026",
+                                            "date":  "2023-11-16 - 2025-06-10",
+                                            "city":  "日本",
+                                            "result":  "8大会連続8度目のW杯出場",
+                                            "point":  "2026年大会へ向け、日本代表は2次予選と最終予選を通じて本大会出場権を獲得した。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              102.0,
+                                                              30.0
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "asia-draw",
+                                            "title":  "アジア予選抽選",
+                                            "date":  "2023-07-27",
+                                            "city":  "クアラルンプール",
+                                            "result":  "2次予選 Group B、最終予選 Group Cへ",
+                                            "point":  "2次予選はミャンマー、シリア、北朝鮮と同組。最終予選では中国、バーレーン、サウジアラビア、オーストラリア、インドネシアと争った。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              135.5382,
+                                                              34.802608
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "jpn-mya-2023",
+                                            "title":  "日本 vs ミャンマー",
+                                            "opponent":  "ミャンマー",
+                                            "date":  "2023-11-16",
+                                            "score":  "5-0",
+                                            "city":  "大阪府吹田市",
+                                            "stadium":  "パナソニック スタジアム 吹田",
+                                            "result":  "勝利",
+                                            "point":  "2次予選初戦。上田綺世のハットトリックなどで大勝し、予選を勢いよくスタートした。",
+                                            "matchId":  "jpn-mya-2023",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "MMR",
+                                            "opponentFlagCode":  "mm",
+                                            "stadiumCoordinates":  [
+                                                                       135.5382,
+                                                                       34.802608
+                                                                   ],
+                                            "matchDate":  "2023-11-16",
+                                            "matchScore":  "5-0",
+                                            "matchSummary":  "2次予選初戦。上田綺世のハットトリックなどで大勝し、予選を勢いよくスタートした。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              39.251693,
+                                                              21.446608
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "syr-jpn-2023",
+                                            "title":  "シリア vs 日本",
+                                            "opponent":  "シリア",
+                                            "date":  "2023-11-21",
+                                            "score":  "0-5",
+                                            "city":  "ジッダ",
+                                            "stadium":  "プリンス・アブドゥラー・アル・ファイサル・スタジアム",
+                                            "result":  "勝利",
+                                            "point":  "中立地開催のアウェイ戦。久保建英の先制点を皮切りに、2試合連続の5得点で首位を固めた。",
+                                            "matchId":  "syr-jpn-2023",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "SYR",
+                                            "opponentFlagCode":  "sy",
+                                            "stadiumCoordinates":  [
+                                                                       39.251693,
+                                                                       21.446608
+                                                                   ],
+                                            "matchDate":  "2023-11-21",
+                                            "matchScore":  "0-5",
+                                            "matchSummary":  "中立地開催のアウェイ戦。久保建英の先制点を皮切りに、2試合連続の5得点で首位を固めた。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              139.7147,
+                                                              35.6780
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "jpn-prk-2024",
+                                            "title":  "日本 vs 北朝鮮",
+                                            "opponent":  "北朝鮮",
+                                            "date":  "2024-03-21",
+                                            "score":  "1-0",
+                                            "city":  "東京都新宿区",
+                                            "stadium":  "国立競技場",
+                                            "result":  "勝利",
+                                            "point":  "田中碧の開始早々の得点を守り切った一戦。緊張感の高い相手に勝利し、3連勝とした。",
+                                            "matchId":  "jpn-prk-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "PRK",
+                                            "opponentFlagCode":  "kp",
+                                            "stadiumCoordinates":  [
+                                                                       139.7147,
+                                                                       35.6780
+                                                                   ],
+                                            "matchDate":  "2024-03-21",
+                                            "matchScore":  "1-0",
+                                            "matchSummary":  "田中碧の開始早々の得点を守り切った一戦。緊張感の高い相手に勝利し、3連勝とした。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              125.7625,
+                                                              39.0496
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "prk-jpn-change",
+                                            "title":  "北朝鮮 vs 日本 開催地変更",
+                                            "opponent":  "北朝鮮",
+                                            "date":  "2024-03-26",
+                                            "score":  "0-3",
+                                            "city":  "平壌予定から中止",
+                                            "stadium":  "金日成競技場予定",
+                                            "result":  "日本の不戦勝扱い",
+                                            "point":  "平壌開催予定の試合は開催されず、FIFAの裁定により日本が3-0で勝利した扱いになった。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              139.7170,
+                                                              35.9031
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "jpn-chn-2024",
+                                            "title":  "日本 vs 中国",
+                                            "opponent":  "中国",
+                                            "date":  "2024-09-05",
+                                            "score":  "7-0",
+                                            "city":  "さいたま市",
+                                            "stadium":  "埼玉スタジアム2002",
+                                            "result":  "勝利",
+                                            "point":  "最終予選初戦で7得点。遠藤航、三笘薫、南野拓実らが得点し、圧倒的な内容で発進した。",
+                                            "matchId":  "jpn-chn-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "CHN",
+                                            "opponentFlagCode":  "cn",
+                                            "stadiumCoordinates":  [
+                                                                       139.7170,
+                                                                       35.9031
+                                                                   ],
+                                            "matchDate":  "2024-09-05",
+                                            "matchScore":  "7-0",
+                                            "matchSummary":  "最終予選初戦で7得点。遠藤航、三笘薫、南野拓実らが得点し、圧倒的な内容で発進した。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              106.8025,
+                                                              -6.2186
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "idn-jpn-2024",
+                                            "title":  "インドネシア vs 日本",
+                                            "opponent":  "インドネシア",
+                                            "date":  "2024-11-15",
+                                            "score":  "0-4",
+                                            "city":  "ジャカルタ",
+                                            "stadium":  "ゲロラ・ブン・カルノ・スタジアム",
+                                            "result":  "勝利",
+                                            "point":  "大観衆のアウェイで4得点。守備でも無失点を維持し、最終予選首位の流れを強めた。",
+                                            "matchId":  "idn-jpn-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "IDN",
+                                            "opponentFlagCode":  "id",
+                                            "stadiumCoordinates":  [
+                                                                       106.8025,
+                                                                       -6.2186
+                                                                   ],
+                                            "matchDate":  "2024-11-15",
+                                            "matchScore":  "0-4",
+                                            "matchSummary":  "大観衆のアウェイで4得点。守備でも無失点を維持し、最終予選首位の流れを強めた。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              39.1645,
+                                                              21.7636
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "ksa-jpn-2024",
+                                            "title":  "サウジアラビア vs 日本",
+                                            "opponent":  "サウジアラビア",
+                                            "date":  "2024-10-10",
+                                            "score":  "0-2",
+                                            "city":  "ジッダ",
+                                            "stadium":  "キング・アブドゥラー・スポーツシティ",
+                                            "result":  "勝利",
+                                            "point":  "鎌田大地と小川航基の得点で、難所のサウジアラビア戦を2-0で突破。最終予選首位の流れを強めた。",
+                                            "matchId":  "ksa-jpn-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "KSA",
+                                            "opponentFlagCode":  "sa",
+                                            "stadiumCoordinates":  [
+                                                                       39.1645,
+                                                                       21.7636
+                                                                   ],
+                                            "matchDate":  "2024-10-10",
+                                            "matchScore":  "0-2",
+                                            "matchSummary":  "鎌田大地と小川航基の得点で、難所のサウジアラビア戦を2-0で突破。最終予選首位の流れを強めた。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              115.8890,
+                                                              -31.9505
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "aus-jpn-2025",
+                                            "title":  "オーストラリア vs 日本",
+                                            "opponent":  "オーストラリア",
+                                            "date":  "2025-06-05",
+                                            "score":  "1-0",
+                                            "city":  "パース",
+                                            "stadium":  "パース・スタジアム",
+                                            "result":  "敗戦",
+                                            "point":  "本大会出場決定後の試合。結果は敗戦だったが、北中米へ向けたチームの修正点を確認する機会となった。",
+                                            "matchId":  "aus-jpn-2025",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "AUS",
+                                            "opponentFlagCode":  "au",
+                                            "stadiumCoordinates":  [
+                                                                       115.8890,
+                                                                       -31.9505
+                                                                   ],
+                                            "matchDate":  "2025-06-05",
+                                            "matchScore":  "1-0",
+                                            "matchSummary":  "本大会出場決定後の試合。結果は敗戦だったが、北中米へ向けたチームの修正点を確認する機会となった。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+            50.543664,
+            26.153594
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "bhr-jpn-2024",
+                                            "title":  "バーレーン vs 日本",
+                                            "opponent":  "バーレーン",
+                                            "date":  "2024-09-10",
+                                            "score":  "0-5",
+                                            "city":  "リファー",
+                                            "stadium":  "バーレーン・ナショナル・スタジアム",
+                                            "result":  "勝利",
+                                            "point":  "上田綺世、守田英正、小川航基らが得点。中東アウェイで5-0と勝ち切り、序盤2連勝を飾った。",
+                                            "matchId":  "bhr-jpn-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "BHR",
+                                            "opponentFlagCode":  "bh",
+                                            "stadiumCoordinates":  [
+          50.543664,
+          26.153594
+                                                                   ],
+                                            "matchDate":  "2024-09-10",
+                                            "matchScore":  "0-5",
+                                            "matchSummary":  "上田綺世、守田英正、小川航基らが得点。中東アウェイで5-0と勝ち切り、序盤2連勝を飾った。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              139.7170,
+                                                              35.9031
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "jpn-bhr-2025",
+                                            "title":  "日本 vs バーレーン",
+                                            "opponent":  "バーレーン",
+                                            "date":  "2025-03-20",
+                                            "score":  "2-0",
+                                            "city":  "さいたま市",
+                                            "stadium":  "埼玉スタジアム2002",
+                                            "result":  "勝利・W杯出場決定",
+                                            "point":  "鎌田大地と久保建英の得点で勝利。開催国を除く世界最速で、2026年FIFAワールドカップ出場を決めた。",
+                                            "matchId":  "jpn-bhr-2025",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "BHR",
+                                            "opponentFlagCode":  "bh",
+                                            "stadiumCoordinates":  [
+                                                                       139.7170,
+                                                                       35.9031
+                                                                   ],
+                                            "matchDate":  "2025-03-20",
+                                            "matchScore":  "2-0",
+                                            "matchSummary":  "鎌田大地と久保建英の得点で勝利。開催国を除く世界最速で、2026年FIFAワールドカップ出場を決めた。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              -148.0,
+                                                              43.0
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "flight-to-na",
+                                            "title":  "北中米へのフライト",
+                                            "date":  "2026",
+                                            "city":  "日本から北中米へ",
+                                            "result":  "本大会へ",
+                                            "point":  "アジアを突破した日本代表の視線は、アメリカ・カナダ・メキシコの本大会へ向かう。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "LineString",
+                                          "coordinates":  [
+                                                              [
+                                                                  139.7170,
+                                                                  35.9031
+                                                              ],
+                                                              [
+                                                                  -123.3656,
+                                                                  48.4284
+                                                              ],
+                                                              [
+                                                                  -122.3316,
+                                                                  47.5952
+                                                              ],
+                                                              [
+                                                                  -99.1332,
+                                                                  19.4326
+                                                              ]
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "flight-route",
+                                            "title":  "埼玉から北中米への航路",
+                                            "date":  "2026",
+                                            "city":  "太平洋上",
+                                            "result":  "本大会への移動",
+                                            "point":  "日本から北中米の開催都市へ向かう航路をラインで表現する。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              -74.0745,
+                                                              40.8135
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "world-cup-venues",
+                                            "title":  "2026 FIFAワールドカップ開催地",
+                                            "date":  "2026-06-11 - 2026-07-19",
+                                            "city":  "イーストラザフォードほか16都市",
+                                            "stadium":  "メットライフ・スタジアムほか",
+                                            "result":  "北米3か国共催",
+                                            "point":  "大会は16都市で開催。決勝はニューヨーク・ニュージャージーのメットライフ・スタジアムで行われる予定。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              139.7671,
+                                                              35.6812
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "ending",
+                                            "title":  "北中米へ続く青い道",
+                                            "date":  "2026",
+                                            "city":  "東京",
+                                            "result":  "物語は本大会へ",
+                                            "point":  "予選突破は通過点。SAMURAI BLUEの挑戦は、北中米のスタジアムで次の章へ進む。"
+                                        }
+                     }
+                 ]
+}
