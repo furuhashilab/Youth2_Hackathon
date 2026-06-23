@@ -43,8 +43,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              135.5382,
-                                                              34.802608
+                                                              135.5425,
+                                                              34.810278
                                                           ]
                                       },
                          "properties":  {
@@ -63,8 +63,8 @@
                                             "opponentCountryCode":  "MMR",
                                             "opponentFlagCode":  "mm",
                                             "stadiumCoordinates":  [
-                                                                       135.5382,
-                                                                       34.802608
+                                                                       135.5425,
+                                                              34.810278
                                                                    ],
                                             "matchDate":  "2023-11-16",
                                             "matchScore":  "5-0",
@@ -109,8 +109,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              139.7147,
-                                                              35.6780
+                                                              139.714583,
+                                                              35.678194
                                                           ]
                                       },
                          "properties":  {
@@ -129,8 +129,8 @@
                                             "opponentCountryCode":  "PRK",
                                             "opponentFlagCode":  "kp",
                                             "stadiumCoordinates":  [
-                                                                       139.7147,
-                                                                       35.6780
+                                                                       139.714583,
+                                                              35.678194
                                                                    ],
                                             "matchDate":  "2024-03-21",
                                             "matchScore":  "1-0",
@@ -142,8 +142,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              125.7625,
-                                                              39.0496
+                                                              125.757694,
+                                                              39.043722
                                                           ]
                                       },
                          "properties":  {
@@ -162,8 +162,8 @@
                                             "opponentCountryCode":  "PRK",
                                             "opponentFlagCode":  "kp",
                                             "stadiumCoordinates":  [
-                                                                       125.7625,
-                                                                       39.0496
+                                                                       125.757694,
+                                                              39.043722
                                                                    ],
                                             "matchDate":  "2024-03-26",
                                             "matchScore":  "0-3",
@@ -175,8 +175,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              102.6350,
-                                                              18.0239
+                                                              102.70389,
+                                                              18.06194
                                                           ]
                                       },
                          "properties":  {
@@ -195,8 +195,8 @@
                                             "opponentCountryCode":  "MMR",
                                             "opponentFlagCode":  "mm",
                                             "stadiumCoordinates":  [
-                                                                       102.6350,
-                                                                       18.0239
+                                                                       102.70389,
+                                                              18.06194
                                                                    ],
                                             "matchDate":  "2024-06-06",
                                             "matchScore":  "0-5",
@@ -208,8 +208,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              132.4554,
-                                                              34.3984
+                                                              132.45389,
+                                                              34.40167
                                                           ]
                                       },
                          "properties":  {
@@ -228,8 +228,8 @@
                                             "opponentCountryCode":  "SYR",
                                             "opponentFlagCode":  "sy",
                                             "stadiumCoordinates":  [
-                                                                       132.4554,
-                                                                       34.3984
+                                                                       132.45389,
+                                                              34.40167
                                                                    ],
                                             "matchDate":  "2024-06-11",
                                             "matchScore":  "5-0",
@@ -241,7 +241,7 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              139.7170,
+                                                              139.7175,
                                                               35.9031
                                                           ]
                                       },
@@ -261,8 +261,8 @@
                                             "opponentCountryCode":  "AUS",
                                             "opponentFlagCode":  "au",
                                             "stadiumCoordinates":  [
-                                                                       139.7170,
-                                                                       35.9031
+                                                                       139.7175,
+                                                              35.9031
                                                                    ],
                                             "matchDate":  "2024-10-15",
                                             "matchScore":  "1-1",
@@ -274,8 +274,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              118.1945,
-                                                              24.6088
+                                                              118.194882,
+                                                              24.566795
                                                           ]
                                       },
                          "properties":  {
@@ -294,8 +294,8 @@
                                             "opponentCountryCode":  "CHN",
                                             "opponentFlagCode":  "cn",
                                             "stadiumCoordinates":  [
-                                                                       118.1945,
-                                                                       24.6088
+                                                                       118.194882,
+                                                              24.566795
                                                                    ],
                                             "matchDate":  "2024-11-19",
                                             "matchScore":  "1-3",
@@ -307,7 +307,7 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              139.7170,
+                                                              139.7175,
                                                               35.9031
                                                           ]
                                       },
@@ -327,8 +327,8 @@
                                             "opponentCountryCode":  "KSA",
                                             "opponentFlagCode":  "sa",
                                             "stadiumCoordinates":  [
-                                                                       139.7170,
-                                                                       35.9031
+                                                                       139.7175,
+                                                              35.9031
                                                                    ],
                                             "matchDate":  "2025-03-25",
                                             "matchScore":  "0-0",
@@ -340,8 +340,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              135.538272,
-                                                              34.802608
+                                                              135.5425,
+                                                                       34.810278
                                                           ]
                                       },
                          "properties":  {
@@ -360,8 +360,8 @@
                                             "opponentCountryCode":  "IDN",
                                             "opponentFlagCode":  "id",
                                             "stadiumCoordinates":  [
-                                                                       135.538272,
-                                                                       34.802608
+                                                                       135.5425,
+                                                                       34.810278
                                                                    ],
                                             "matchDate":  "2025-06-10",
                                             "matchScore":  "6-0",
@@ -373,7 +373,7 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              139.7170,
+                                                              139.7175,
                                                               35.9031
                                                           ]
                                       },
@@ -393,8 +393,8 @@
                                             "opponentCountryCode":  "CHN",
                                             "opponentFlagCode":  "cn",
                                             "stadiumCoordinates":  [
-                                                                       139.7170,
-                                                                       35.9031
+                                                                       139.7175,
+                                                              35.9031
                                                                    ],
                                             "matchDate":  "2024-09-05",
                                             "matchScore":  "7-0",
@@ -406,8 +406,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              106.8025,
-                                                              -6.2186
+                                                              106.8025111,
+                                                              -6.2185778
                                                           ]
                                       },
                          "properties":  {
@@ -426,8 +426,8 @@
                                             "opponentCountryCode":  "IDN",
                                             "opponentFlagCode":  "id",
                                             "stadiumCoordinates":  [
-                                                                       106.8025,
-                                                                       -6.2186
+                                                                       106.8025111,
+                                                              -6.2185778
                                                                    ],
                                             "matchDate":  "2024-11-15",
                                             "matchScore":  "0-4",
@@ -439,8 +439,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              39.1645,
-                                                              21.7636
+                                                              39.165096,
+                                                              21.762627
                                                           ]
                                       },
                          "properties":  {
@@ -459,8 +459,8 @@
                                             "opponentCountryCode":  "KSA",
                                             "opponentFlagCode":  "sa",
                                             "stadiumCoordinates":  [
-                                                                       39.1645,
-                                                                       21.7636
+                                                                       39.165096,
+                                                              21.762627
                                                                    ],
                                             "matchDate":  "2024-10-10",
                                             "matchScore":  "0-2",
@@ -472,8 +472,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              115.8890,
-                                                              -31.9505
+                                                              115.88917,
+                                                              -31.95111
                                                           ]
                                       },
                          "properties":  {
@@ -492,8 +492,8 @@
                                             "opponentCountryCode":  "AUS",
                                             "opponentFlagCode":  "au",
                                             "stadiumCoordinates":  [
-                                                                       115.8890,
-                                                                       -31.9505
+                                                                       115.88917,
+                                                              -31.95111
                                                                    ],
                                             "matchDate":  "2025-06-05",
                                             "matchScore":  "1-0",
@@ -505,8 +505,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-            50.543664,
-            26.153594
+            50.54361,
+                                                              26.15361
                                                           ]
                                       },
                          "properties":  {
@@ -525,8 +525,8 @@
                                             "opponentCountryCode":  "BHR",
                                             "opponentFlagCode":  "bh",
                                             "stadiumCoordinates":  [
-          50.543664,
-          26.153594
+          50.54361,
+                                                              26.15361
                                                                    ],
                                             "matchDate":  "2024-09-10",
                                             "matchScore":  "0-5",
@@ -538,7 +538,7 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              139.7170,
+                                                              139.7175,
                                                               35.9031
                                                           ]
                                       },
@@ -558,8 +558,8 @@
                                             "opponentCountryCode":  "BHR",
                                             "opponentFlagCode":  "bh",
                                             "stadiumCoordinates":  [
-                                                                       139.7170,
-                                                                       35.9031
+                                                                       139.7175,
+                                                              35.9031
                                                                    ],
                                             "matchDate":  "2025-03-20",
                                             "matchScore":  "2-0",
@@ -590,8 +590,8 @@
                                           "type":  "LineString",
                                           "coordinates":  [
                                                               [
-                                                                  139.7170,
-                                                                  35.9031
+                                                                  139.7175,
+                                                              35.9031
                                                               ],
                                                               [
                                                                   -123.3656,
@@ -621,8 +621,8 @@
                          "geometry":  {
                                           "type":  "Point",
                                           "coordinates":  [
-                                                              -74.0745,
-                                                              40.8135
+                                                              -74.074361,
+                                                              40.813528
                                                           ]
                                       },
                          "properties":  {
