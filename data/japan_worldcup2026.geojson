@@ -1,4 +1,4 @@
-{
+﻿{
     "type":  "FeatureCollection",
     "name":  "SAMURAI BLUE 2026 - 北中米W杯への軌跡",
     "features":  [
@@ -155,7 +155,217 @@
                                             "city":  "平壌予定から中止",
                                             "stadium":  "金日成競技場予定",
                                             "result":  "日本の不戦勝扱い",
-                                            "point":  "平壌開催予定の試合は開催されず、FIFAの裁定により日本が3-0で勝利した扱いになった。"
+                                            "point":  "平壌開催予定の試合は開催されず、FIFAの裁定により日本が3-0で勝利した扱いになった。",
+                                            "matchId":  "prk-jpn-change",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "PRK",
+                                            "opponentFlagCode":  "kp",
+                                            "stadiumCoordinates":  [
+                                                                       125.7625,
+                                                                       39.0496
+                                                                   ],
+                                            "matchDate":  "2024-03-26",
+                                            "matchScore":  "0-3",
+                                            "matchSummary":  "平壌開催予定の試合は開催されず、FIFAの裁定により日本が3-0で勝利した扱いになった。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              102.6350,
+                                                              18.0239
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "mya-jpn-2024",
+                                            "title":  "ミャンマー vs 日本",
+                                            "opponent":  "ミャンマー",
+                                            "date":  "2024-06-06",
+                                            "score":  "0-5",
+                                            "city":  "ビエンチャン",
+                                            "stadium":  "ニュー・ラオス・ナショナルスタジアム",
+                                            "result":  "勝利",
+                                            "point":  "中立地ラオスで行われた第5戦。日本は序盤から主導権を握り、2次予選5連勝で最終戦へ進んだ。",
+                                            "matchId":  "mya-jpn-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "MMR",
+                                            "opponentFlagCode":  "mm",
+                                            "stadiumCoordinates":  [
+                                                                       102.6350,
+                                                                       18.0239
+                                                                   ],
+                                            "matchDate":  "2024-06-06",
+                                            "matchScore":  "0-5",
+                                            "matchSummary":  "中立地ラオスで行われた第5戦。日本は序盤から主導権を握り、2次予選5連勝で最終戦へ進んだ。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              132.4554,
+                                                              34.3984
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "jpn-syr-2024",
+                                            "title":  "日本 vs シリア",
+                                            "opponent":  "シリア",
+                                            "date":  "2024-06-11",
+                                            "score":  "5-0",
+                                            "city":  "広島市",
+                                            "stadium":  "エディオンピースウイング広島",
+                                            "result":  "勝利",
+                                            "point":  "2次予選最終戦。広島で5得点を奪い、6戦全勝、24得点無失点で次のラウンドへ進出した。",
+                                            "matchId":  "jpn-syr-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "SYR",
+                                            "opponentFlagCode":  "sy",
+                                            "stadiumCoordinates":  [
+                                                                       132.4554,
+                                                                       34.3984
+                                                                   ],
+                                            "matchDate":  "2024-06-11",
+                                            "matchScore":  "5-0",
+                                            "matchSummary":  "2次予選最終戦。広島で5得点を奪い、6戦全勝、24得点無失点で次のラウンドへ進出した。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              139.7170,
+                                                              35.9031
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "jpn-aus-2024",
+                                            "title":  "日本 vs オーストラリア",
+                                            "opponent":  "オーストラリア",
+                                            "date":  "2024-10-15",
+                                            "score":  "1-1",
+                                            "city":  "さいたま市",
+                                            "stadium":  "埼玉スタジアム2002",
+                                            "result":  "引き分け",
+                                            "point":  "埼玉で迎えた首位攻防戦。互いのオウンゴールで1-1となり、日本は最終予選の首位を維持した。",
+                                            "matchId":  "jpn-aus-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "AUS",
+                                            "opponentFlagCode":  "au",
+                                            "stadiumCoordinates":  [
+                                                                       139.7170,
+                                                                       35.9031
+                                                                   ],
+                                            "matchDate":  "2024-10-15",
+                                            "matchScore":  "1-1",
+                                            "matchSummary":  "埼玉で迎えた首位攻防戦。互いのオウンゴールで1-1となり、日本は最終予選の首位を維持した。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              118.1945,
+                                                              24.6088
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "chn-jpn-2024",
+                                            "title":  "中国 vs 日本",
+                                            "opponent":  "中国",
+                                            "date":  "2024-11-19",
+                                            "score":  "1-3",
+                                            "city":  "厦門",
+                                            "stadium":  "厦門白鷺体育場",
+                                            "result":  "勝利",
+                                            "point":  "厦門でのアウェイ戦。小川航基の2得点と板倉滉のゴールで中国を振り切った。",
+                                            "matchId":  "chn-jpn-2024",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "CHN",
+                                            "opponentFlagCode":  "cn",
+                                            "stadiumCoordinates":  [
+                                                                       118.1945,
+                                                                       24.6088
+                                                                   ],
+                                            "matchDate":  "2024-11-19",
+                                            "matchScore":  "1-3",
+                                            "matchSummary":  "厦門でのアウェイ戦。小川航基の2得点と板倉滉のゴールで中国を振り切った。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              139.7170,
+                                                              35.9031
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "jpn-ksa-2025",
+                                            "title":  "日本 vs サウジアラビア",
+                                            "opponent":  "サウジアラビア",
+                                            "date":  "2025-03-25",
+                                            "score":  "0-0",
+                                            "city":  "さいたま市",
+                                            "stadium":  "埼玉スタジアム2002",
+                                            "result":  "引き分け",
+                                            "point":  "出場権獲得後のホームゲーム。得点は生まれなかったが、日本は堅い試合運びで最終予選の首位を守った。",
+                                            "matchId":  "jpn-ksa-2025",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "KSA",
+                                            "opponentFlagCode":  "sa",
+                                            "stadiumCoordinates":  [
+                                                                       139.7170,
+                                                                       35.9031
+                                                                   ],
+                                            "matchDate":  "2025-03-25",
+                                            "matchScore":  "0-0",
+                                            "matchSummary":  "出場権獲得後のホームゲーム。得点は生まれなかったが、日本は堅い試合運びで最終予選の首位を守った。"
+                                        }
+                     },
+                     {
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              135.538272,
+                                                              34.802608
+                                                          ]
+                                      },
+                         "properties":  {
+                                            "id":  "jpn-idn-2025",
+                                            "title":  "日本 vs インドネシア",
+                                            "opponent":  "インドネシア",
+                                            "date":  "2025-06-10",
+                                            "score":  "6-0",
+                                            "city":  "大阪府吹田市",
+                                            "stadium":  "パナソニック スタジアム 吹田",
+                                            "result":  "勝利",
+                                            "point":  "予選最終戦。久保建英、鎌田大地らの得点で6-0と締めくくり、日本は首位通過で予選を終えた。",
+                                            "matchId":  "jpn-idn-2025",
+                                            "homeCountryCode":  "JPN",
+                                            "homeFlagCode":  "jp",
+                                            "opponentCountryCode":  "IDN",
+                                            "opponentFlagCode":  "id",
+                                            "stadiumCoordinates":  [
+                                                                       135.538272,
+                                                                       34.802608
+                                                                   ],
+                                            "matchDate":  "2025-06-10",
+                                            "matchScore":  "6-0",
+                                            "matchSummary":  "予選最終戦。久保建英、鎌田大地らの得点で6-0と締めくくり、日本は首位通過で予選を終えた。"
                                         }
                      },
                      {
