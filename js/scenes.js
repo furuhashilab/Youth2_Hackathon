@@ -14,6 +14,19 @@ function cameraStages(center, wideZoom, midZoom, closeZoom, bearing, closePitch 
 
 const STORY_SCENES = [
   {
+    id: "scene-opening",
+    featureId: "japan-overview",
+    name: "OPENING",
+    titleLabel: "SAMURAI BLUE 2026",
+    date: "2023年11月16日 - 2025年6月10日",
+    city: "日本からアジアへ",
+    stadium: "予選16試合の舞台",
+    score: "起: 北中米への道が始まる",
+    description: "2026 FIFAワールドカップへ向けた日本代表のアジア予選。16試合の軌跡を、開催地を巡る3Dカメラワークでたどる。",
+    stages: cameraStages([139.7671, 35.6812], 8.8, 11.4, 13.9, -32, 66),
+    orbit: { degrees: 128, pitch: 66 }
+  },
+  {
     id: "scene-01",
     featureId: "jpn-mya-2023",
     name: "MATCH 01",
@@ -220,6 +233,19 @@ const STORY_SCENES = [
     description: "予選最終戦。久保建英、鎌田大地らの得点で6-0と締めくくり、日本は16試合の予選を首位通過で終えた。",
     stages: cameraStages([135.538272, 34.802608], 12.6, 14.8, 16.6, 54, 76),
     orbit: { degrees: -144, pitch: 76 }
+  },
+  {
+    id: "scene-ending",
+    featureId: "world-cup-venues",
+    name: "ENDING",
+    titleLabel: "北中米へ",
+    date: "2026年6月11日 - 7月19日",
+    city: "イーストラザフォードほか16都市",
+    stadium: "メットライフ・スタジアムほか",
+    score: "結: 物語は本大会へ続く",
+    description: "予選突破は到達点ではなく、次の章への入口。SAMURAI BLUEの視線は、アメリカ、カナダ、メキシコの本大会へ向かう。",
+    stages: cameraStages([-74.0745, 40.8135], 10.4, 12.9, 15.55, -44, 72),
+    orbit: { degrees: 140, pitch: 72 }
   }
 ];
 
